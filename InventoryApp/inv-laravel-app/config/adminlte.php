@@ -223,7 +223,6 @@ return [
     | https://github.com/jeroennoten/Laravel-AdminLTE/wiki/Menu-Configuration
     |
     */
-
     'menu' => [
         // Navbar items:
         [
@@ -241,7 +240,6 @@ return [
             'type' => 'sidebar-menu-search',
             'text' => 'search',
         ],
-
         [
             'text'=> 'Inventory',
             'url'=> 'inventory',
@@ -267,8 +265,6 @@ return [
             'url'=> 'notes',
             'icon'=> 'far fa-file-alt',
         ],
-
-
     /*
     |--------------------------------------------------------------------------
     | Menu Filters
