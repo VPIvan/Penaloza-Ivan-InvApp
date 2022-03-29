@@ -260,11 +260,13 @@ return [
             'url'=> 'users',
             'icon'=> 'far fa-address-card',
         ],
+        /*
         [
             'text'=> 'Notes',
             'url'=> 'notes',
             'icon'=> 'far fa-file-alt',
         ],
+        */
     ],
     /*
     |--------------------------------------------------------------------------
