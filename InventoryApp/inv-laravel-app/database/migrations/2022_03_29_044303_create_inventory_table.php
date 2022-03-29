@@ -15,6 +15,8 @@ return new class extends Migration
     {
         Schema::create('inventory', function (Blueprint $table) {
             $table->id();
+            $table->string('Name');
+            $table->string('');
             $table->timestamps();
         });
     }
